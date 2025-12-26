@@ -1,17 +1,15 @@
 DeepSeek
 
 当年明月在
+
 李新野
+
 社恐狗
 
+黄金
 
-宇树
-王兴兴
+新能源车
 
-智元
-灵犀
-稚晖君
-彭志辉
 
 AMD
 
@@ -27,19 +25,17 @@ sora
 claude
 Anthropic
 
-iphone
-ipad
-mac
-ios
-
 ai
+
 !gai
 人工智能
 
 RAG
+
 AI产品
 
 芯片
+
 光刻机
 
 科技
@@ -47,6 +43,7 @@ AI产品
 核能
 
 水电站
+
 雅鲁藏布江
 
 新质生产力
