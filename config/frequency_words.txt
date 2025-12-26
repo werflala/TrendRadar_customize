@@ -13,13 +13,13 @@
 
 [WORD_GROUPS]
 
-# --- 核心关注：DeepSeek (目前最火，单独一组) ---
+# --- 核心关注：DeepSeek---
 DeepSeek
 深度求索
 幻方量化
 @10
 
-# --- 国际大模型三巨头 (OpenAI/Google/Anthropic) ---
+# --- 国际大模型三巨头 ---
 ChatGPT
 OpenAI
 Sora
