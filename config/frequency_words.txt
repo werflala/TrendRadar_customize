@@ -17,6 +17,7 @@
 DeepSeek
 深度求索
 幻方量化
+Manus
 @10
 
 # --- 国际大模型三巨头 ---
@@ -29,6 +30,7 @@ Gemini
 DeepMind
 Claude
 Anthropic
+Manus
 模型
 !教程
 !如何使用
